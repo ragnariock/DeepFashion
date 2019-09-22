@@ -29,7 +29,7 @@ from PIL import ImageDraw
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import skimage.data
-import selectivesearch
+import selective_search
 
 
 import logging
