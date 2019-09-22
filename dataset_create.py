@@ -95,7 +95,7 @@ def get_gt_bbox(image_path_name, file_ptr):
             logging.debug('bbox {}'.format(bbox))
             return bbox
 
-
+fashion_dataset_path = '/content/DeepFashion/fashion_data'
 # Get category names list
 def get_category_names():
     category_names = []
